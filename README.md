@@ -1,2 +1,2 @@
 # TestCpp
-Skeleton for future programs.
+Skeleton for future applications.
