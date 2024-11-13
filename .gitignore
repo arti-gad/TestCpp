@@ -1,5 +1,8 @@
 # ignore ALL files in ANY directory named ".vscode"
 .vscode/
 
-# ignore ALL files in ANY directory named ".bin"
+# ignore ALL files in ANY directory named "bin"
 bin/
+
+# ignore ALL files in ANY directory named "build"
+build/
